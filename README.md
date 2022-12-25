@@ -1,5 +1,5 @@
 # Send data with AppGroup
-```
+```swift
 import SwiftUI
 import WidgetKit
 
